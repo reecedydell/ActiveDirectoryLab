@@ -1,4 +1,4 @@
-<h1>Authorization Configuration Lab</h1>
+<h1>Configuring Authorizations</h1>
 
 
 <h2>Description</h2>
