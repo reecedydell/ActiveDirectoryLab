@@ -23,6 +23,7 @@ The 10-character string is a simple way to determine who's authorized to access 
 In the example above, I changed the permissions for the "project_k.txt" file. The updated 10-character string "-rw-rw-r--" shows that the user and group still have read (r) and write (w) permissions. However, other users only have read (r) permission now. None of the users have execute (x) permission.
 <br />
 <br />
+<p align="center">
 Change file permissions on a hidden file: <br/>
 <img src="https://i.imghippo.com/files/twY4797LA.png" alt="" border="0">
 <br />
